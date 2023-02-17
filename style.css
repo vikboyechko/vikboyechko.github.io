@@ -1,0 +1,91 @@
+body {
+  font-family: Lato, sans-serif;
+}
+
+h1 {
+  font-size:28px;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-transform: uppercase;
+  color: #673293;
+}
+
+h3 {
+  color: #673293;
+  margin-top: -10px;
+}
+
+h4 {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+h5 {
+  color: #673293;
+  font-size: 16px;
+}
+
+h6 {
+
+}
+
+
+p {
+  size: 9px;
+}
+
+ul {
+  font-family: Lato, sans-serif;
+  size: 9px;
+  line-height: 1.3em;
+}
+
+hr {
+  margin-top: -15px;
+  border: 1px solid black;
+  border-color: #673293;
+}
+
+li {
+  margin-top: 15px;
+}
+
+.contact-info {
+  font-family: Lato, sans-serif;
+  font-weight: 400;
+}
+
+.contact-info a {
+  color: #0862ee;
+}
+
+.bio-photo img {
+  width: 100px;
+  float: right;
+  margin-top:-100px;
+}
+
+#left-column {
+  width: 70%;
+  float: left;
+}
+
+#right-column {
+  width: 25%;
+  float: right;
+}
+
+.left-column-box {
+  border-bottom: 1px dotted grey;
+}
+
+.right-column-box {
+  border-bottom: 1px dotted grey;
+}
+
+.datelocation {
+  font-weight: 100;
+  margin: -15px 0 -5px 0;
+}
